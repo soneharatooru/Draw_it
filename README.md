@@ -10,4 +10,4 @@ A fun application that lets users create custom drawings online.
 
 ## Screenshot
 
-<img src="image.png" width="350">
+<img src="Image.png" width="350">
